@@ -1,0 +1,6 @@
+{
+  "name": "Sri Krishna College, Coimbatore",
+  "description": "Official institutional portal for Sri Krishna College, Kuniyamuthur, Coimbatore — autonomous undergraduate, postgraduate, and doctoral programmes in engineering, computing, management, and sciences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
